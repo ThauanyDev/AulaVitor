@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 /projetoapp/apps/products/__pycache__/*
 /projetoapp/apps/products/migrations/*
+/projetoapp/apps/socialnetworks/__pycache__/*
+/projetoapp/apps/socialnetworks/migrations/*
