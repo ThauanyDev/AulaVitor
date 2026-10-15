@@ -10,3 +10,5 @@ __pycache__/
 /projetoapp/apps/products/migrations/*
 /projetoapp/apps/socialnetworks/__pycache__/*
 /projetoapp/apps/socialnetworks/migrations/*
+/projetoapp/apps/persons/__pycache__/*
+/projetoapp/apps/persons/migrations/*
