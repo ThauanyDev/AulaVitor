@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'orders.apps.OrdersConfig',
     'orderitems.apps.OrderitemsConfig',
     'invoices.apps.InvoicesConfig',
+    'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
