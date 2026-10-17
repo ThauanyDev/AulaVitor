@@ -12,3 +12,7 @@ __pycache__/
 /projetoapp/apps/socialnetworks/migrations/*
 /projetoapp/apps/persons/__pycache__/*
 /projetoapp/apps/persons/migrations/*
+/projetoapp/apps/employees/__pycache__/*
+/projetoapp/apps/employees/migrations/*
+/projetoapp/apps/clients/__pycache__/*
+/projetoapp/apps/clients/migrations/*
