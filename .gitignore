@@ -18,3 +18,5 @@ __pycache__/
 /projetoapp/apps/clients/migrations/*
 /projetoapp/apps/orders/__pycache__/*
 /projetoapp/apps/orders/migrations/*
+/projetoapp/apps/orderitems/__pycache__/*
+/projetoapp/apps/orderitems/migrations/*
