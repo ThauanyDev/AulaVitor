@@ -20,3 +20,5 @@ __pycache__/
 /projetoapp/apps/orders/migrations/*
 /projetoapp/apps/orderitems/__pycache__/*
 /projetoapp/apps/orderitems/migrations/*
+/projetoapp/apps/invoices/__pycache__/*
+/projetoapp/apps/invoices/migrations/*
